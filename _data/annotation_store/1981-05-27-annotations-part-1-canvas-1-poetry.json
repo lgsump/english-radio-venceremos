@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-poetry.json",
+  "type": "AnnotationPage",
+  "label": "Poetry",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-poetry-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In The Creative Powers of the People, today we have the text by revolutionary poet, Roque Dalton. His creative power is present in our fight, and from his body of work we've chosen \"The policemen and the Guards.\" ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "597.0,624.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-poetry-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They always saw the people as a mass of backs running away<br> as a field on which their clubs fell with hatred.<br> <br> They always saw the people with an eye on sharpening their aim<br> and between the people and their eye, the sight of a pistol or a rifle.<br> <br> (They too were once of the people<br> but with the excuse of hunger and unemployment<br> they accepted a weapon, a club and a monthly salary<br> to defend the makers of hunger and unemployment.)<br> <br> They always saw the people enduring<br> sweating<br> shouting<br> raising placards<br> raising fists<br> and what’s more telling them:<br> “Dog sons of whores, your day will come.”<br> (And with every passing day<br> they figured they’d done a great thing in betraying the people from which they were born:<br> “The people are a mass of cripples and fools —they thought—<br> it’s great we’ve gone over to the side of the clever and strong”).<br> <br> And then the trigger was squeezed<br> and bullets went from the side of the cops and guards<br> to the side of the people<br> they always went that way, from there to here<br> and the people fell bleeding week after week and year after year<br> broken-boned<br> they wept through the eyes of the women and children<br> fleeing in terror<br> ceasing to be a people to become a fleeing mob<br> disappearing every man for himself to his house<br> and then there was nothing left<br> but the fireman hosing the blood off the streets.<br> <br> (The colonels finished up by convincing them:<br> “That’s the way it is guys—they said—<br> hard and to the heads of the civilians<br> fire on the rabble<br> you are uniformed pillars of the Nation<br> priests of the first rank<br> in the cult of the flag, the shield, the hymn, the Fathers,<br> representative democracy, the official party, the free world<br> whose sacrifices the decent people of this land won’t forget<br> though we can’t give you a raise today<br> though of course we’d like to”).<br> <br> They always saw the people<br> convulsive in the torture chamber<br> hanged<br> beaten<br> broken<br> swollen<br> asphyxiated<br> raped<br> ears and eyes pricked with needles<br> electrified<br> drowned in piss and shit<br> spit-upon<br> degraded<br> their last remains giving off little froths of smoke<br> in a hell of quicklime.<br> <br> (When the tenth National Guard was found dead, killed by the people<br> and the fifth cop was roughed up by the urban guerrilla<br> the cops and the National Guard began to think,<br> especially because the colonels had already changed their tune<br> and laid the guilt for today’s failure on “these rotten troop recruits we have”).<br> <br> The fact is the cops and the guards<br> always saw the people from there to here<br> and the bullets only traveled from there to here.<br> Let them think about that a while<br> let them decide whether it’s too late<br> to seek the people’s side<br> and shoot from there shoulder to shoulder with us.<br> <br> Let them think about that a bit but meanwhile<br> they shouldn’t be surprised<br> let alone offended<br> now that some bullets<br> have begun to reach them from this side<br> where it’s still the same people as always<br> except now with their heads held high<br> and each time with more rifles.<br>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "625.0,915.0"
+        }
+      }
+    }
+  ]
+}

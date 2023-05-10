@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is Radio Venceremos, the official voice of the Farabundo Marti for National Liberation Front (FMLN), transmiting its signal of liberty from El Salvador, Central  America, a territory in combat against oppression and imperialism. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "229.0,248.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is Radio Venceremos on the air, breaking the dictatorship's information siege. Racio Venceremos, an expression of popular power over territories controled by a people in arms.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305.0,322.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In this manner, Radio Venceremos begins its broadcasts at this hour, sending a greeting on this the seventeenth anniversary of the creation of the Palestine Liberation Organization (PLO), [celebrated] tomorrow May 28th and which it will be seventeen years since the Organization's foundation for the liberation of Palestine, a sister movement in the Middle East that fights for its national liberation. Radio Venceremos greets the Palestian people in arms, greets this organization in its pursuit of peace, democracy, and the self-determination of a people in permanent combat against opression. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "339.0,394.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And now, Captain Francisco Emilio Mena Sandoval, a member of the Military Youth of the National Army, opines about the election's fraude.   ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "412.0,423.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Transmiting its signal of liberty from El Salvador, Central America, a territory in combat agains oppresión and imperialism. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "554.0,564.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is The Creative Powers of the People. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "574.0,578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In these moments, Radio is receiving War Report number 121 from the information section of the Farabundo Marí for the National Liberation Front’s General Command addressed to their heroic combatantants and the Salvadoran people, and to all peoples of the world.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "994.0,1016.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "For our part, we retreated after we completed this operation without suffering any casualties. On the 17th of May at nine at night, the patriotic forces of the FMLN carried out an attack on the Death Squadron in San Martin Street in Suchitoto.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1045.0,1072.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We have heard the testimony of Santiago Argueta Sanchez, a former member of the Civil Guard who heeded the calling of the Farabundo Marti for National Liberation Front and laid down his weapon at the taking of Villa del Rosario on April 16th of this year and thus joined the people’s struggle.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1995.0,2016.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-radio-venceremos-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "From El Salvador, Centroamérica, a territory in combat against opression and imperialism. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2416.0,2424.0"
+        }
+      }
+    }
+  ]
+}

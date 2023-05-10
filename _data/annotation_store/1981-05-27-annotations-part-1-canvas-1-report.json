@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-report.json",
+  "type": "AnnotationPage",
+  "label": "Report",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-report-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Modesto Ramirez Central Front Report, ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1018.0,1021.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-report-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Francisco Sanchez Eastern Front Report. On May 24th, in the department of Morazán, around the area of Delicias de Concepción, there was a combat for over three hours.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1440.0,1454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-report-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In San Salvador, the capital hurt by the dictatorship’s repression, despite martial law and curfew, despite the groowing militarization of the streets and other public places, our companions, workers, students, women from the marketplaces, hovel residents, militiamen and combatants operate day and night in liberating campaigns that harass and erode the enemy forces. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1528.0,1560.0"
+        }
+      }
+    }
+  ]
+}

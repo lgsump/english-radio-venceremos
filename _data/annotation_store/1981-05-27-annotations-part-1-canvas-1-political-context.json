@@ -1,0 +1,272 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-political-context.json",
+  "type": "AnnotationPage",
+  "label": "Political context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The enemy is determined to say that our actions are acts of terrorism. Our people know that this is not the case. This is about the continuity of our just fight for national liberation. This is about the popular response to the crime and repression of the genocidal junta. Forward, comrades of San Salvador. The combatants of the Francisco Sanchez Eastern Front greets you. The present is one of fighting. The future is ours.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1560.0,1598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And there, around five days later was the story in the newspaper about a confrontation in El Rosario Villa where nineteen guerrillas had died and that (the army) had not suffered any casualties.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1762.0,1772.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "These are the words of a young Salvadoran who held the weapons the dictatorship gave him and who today bears the weapons of the people. It is a reflection of what is happening in the middle of the Armed Forces. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2043.0,2060.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It’s the awakening awareness of those who belong to the exploited classes and who have remained deceived by the criminal high military command, those who have been recruited by force or out of necessity have remained in the army and at the service of the oppresion. Those peasant soldiers have begun to open their eyes, have begun to question the trenches they have occupied. They have begun to ask themselves, “Why do I fight?” “Who do I serve?” “For whom am I sacrificing my own life?”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2061.0,2111.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In Jucuaran, department of Usulután, soldiers of the third brigade refused to fight against the forces of the Farabundo Marti for National Liberation Front. In Torola, five police of the tax office (Hacienda) abandoned their their posts with their issued weapon and equipment. The same thing is happening in the entire country. Soldiers who have become aware of the misery that they’ve since their roots, (they’ve also become aware) of the repression which they themselves have executed as blind instruments of the oligarchical power and of imperialistic designs.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2111.0,2158.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Soldiers have their own combat post with their own people, and those who have made that decision and have joined our ranks have been well received, by their brethren of class, with the respect and brotherhood that all have come to know. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2159.0,2182.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We showed this recently in the case of soldier Santos Enrique Diaz Alvarenga, the third brigade of San Miguel. And now we have just heard the testimony of Santiago Argueta Sanchez, a former civil guard in Villa del Rosario. In this town when our forces too the enemy’s possession’s, Santiago Argueta Sanches deposed his weapons in response to our combatants’ calls (to join their ranks), and he laid down his weapons and joined our forces.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2184.0,2224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "He immediately expressed his sincere and conscientious desire to join the ranks of the people, and the statements that he has declared to us reiterate what we all already know, that in the National Army there are profound challenges between the military high command and officers, classes, and soldiers that are do not agree with the genocide.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2225.0,2258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "On the other hand, to make these challenges even more acute, within the National Army young officers most likely cannot  how Yankee military adviser the day to day take over the lion’s share of the military operations agains the people, thus giving it everyday a more criminal nature.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2259.0,2284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The case of the soldiers that disobeyed the order to fight against the opposition forces of the Farabundo Marti for National Liberation Front, that is to say, the opposition forces of the people, moves us to encouraging reflections on what is happening in the center of the army, in addition to the fact that they’ve been unable to garner any military victory in all their operatives against our positions in the entire national territory. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2285.0,2324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "While this is all happening, the people are joining the militias, they are joining their (own) army, they are integrating into the cornfields of the people to produce the sustenance for the revolutionary army. They consolidate the zones under their control while the dictatorship lives its worse moment.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2325.0,2353.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-political-context-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Each day, the people is becoming more convinced that victory is within the reach of their united and persevering hands. Hope overwhelms us all, and that is why we close our fists, and we are achieving victory with combat blows. That is, today more than ever we have the conviction that we will prevail, which means that soon we will conquer peace and social justice for our people.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2354.0,2391.0"
+        }
+      }
+    }
+  ]
+}

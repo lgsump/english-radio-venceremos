@@ -1,0 +1,294 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-casualties.json",
+  "type": "AnnotationPage",
+  "label": "Casualties",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We caused the enemy casualties.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1041.0,1044.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We caused two enemy casualties with this action.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1074.0,1078.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This action caused five enemy casualties. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1131.0,1136.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "With this action, we caused four enemy casualties. FMLN casualties: one combatant. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1098.0,1168.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We carried out this action on the new street in San Rafael and caused the puppet army two casualties.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1190.0,1201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "One enemy casualty was reported in this combat. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1230.0,1233.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the result of the combat were two enemy casualties. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1291.0,1297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "At 10:30 PM, enemy partrols fell unto one of the mines, and the number of their casualties is currently unknown. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1396.0,1399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Two casualties were the result of this operation besides leaving a vehicle damaged y out of commission.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1410.0,1419.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "With this operation we caused three enemy casualties, two deaths and one wounded. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1432.0,1439.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The FMLN forces caused the enemy several casualties. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1455.0,1461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Seven wounded of the dictatorship were the result of this action, among them a captain with fractured legs.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1475.0,1487.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-casualties-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Four members of the genocidal army died and several others were wounded by a mine explosion found in a stony hill in Zacatecoluca, in the south of San Salvador.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2669.0,2682.0"
+        }
+      }
+    }
+  ]
+}

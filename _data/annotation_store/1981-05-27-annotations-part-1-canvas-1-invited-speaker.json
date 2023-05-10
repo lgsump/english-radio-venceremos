@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-invited-speaker.json",
+  "type": "AnnotationPage",
+  "label": "Invited Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-invited-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What kind of democracy is this? Our country definitely cannot have elections because there isn't an trustworthy Government that can guarantee them. The people are tired of this deception and today, besides declaring, \"Enough of these election frauds!\", it also fights with fire arms in its hands for true liberty, a democratic and revolutionary government, which will be guaranteed by an army of nine teams which will be comprised by the forces of the Farabundo Martí for the National Liberation Front and the Military Youth, and which will constitute an iron-clad guarantee for the governement and the Salvadoran people.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "424.0,449.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-invited-speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The proclamation by the Military Youth and by the Farabundo Martí for the National Liberation Front marks the point of departure toward peace in our fatherland and it marks a historical revolutionary committment for and by the people.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "470.0,487.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-27-annotations-part-1-canvas-1-invited-speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Military patriot: The people are first. Join us. Fight. Liberty and fatherland. Military Youth of the Salvadoran Army. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.0,501.0"
+        }
+      }
+    }
+  ]
+}

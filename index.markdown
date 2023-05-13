@@ -4,18 +4,15 @@
 
 layout: home
 ---
-<h1><center>The Sounds of War:</center>
-<h2><center>The Violence Reported in <i>Radio Venceremos</i> Broadcasts, 1981-1990
-<hr>
-<left>
+<center><h1><b>The Sounds of War::</b>
+  <br>
+<h3>The Violence Reported in <i>Radio Venceremos</i> Broadcasts: 
 <br>
-<p style="text-align:center;"><img width="500" height="500" alt="Screen Shot 2023-03-08 at 7 04 54 PM" src="https://user-images.githubusercontent.com/122332459/223888582-3a690e68-f792-4565-a13e-0c5227e43822.png"></p>
-<br>
-<h6>Taken from <a href="https://ladi.lib.utexas.edu/en/MUPI/bf3b580f-a8e5-4dcb-9204-24934d3820b2">"7 Jahre"</a>.</h6>
-<br>
-<p style="text-align:left"><h5><left><i>Radio Venceremos</i> was the radio-broadcasted program that served as propaganda and commentary against the oppression of the Salvadoran government during the Salvadoran Civil War (1979-1992), though the radio station would continue to run some time after the peace agreement in 1992. <i>Radio Venceremos</i>, or ‘We Will Win’ in English, served as a tool for the Farabundo Martí National Liberation Front (FMLN) to coordinate and communicate with ordinary Salvadorans in encouraging their role in the revolutionary effort, but also served as way to spread news and keep people up to date on the government’s atrocities and recent attacks.</left></h5></p>
-<br>
+El Salvador, 1981-1990
+<hr>  
+<img style="padding: 10px;" align="left" width="200" height="200" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/ec73fb70-cb52-4da4-aeb7-2ad69ea23ff2"><img align="right" width="200" height="200" src="https://github.com/lgsump/radio-venceremos-espanol/assets/122332459/131e340a-4d86-4341-9466-c5167aa9dce1"><h4><b><i>Radio Venceremos</i></b> was the radio-broadcasted program that served as propaganda and commentary against the oppression of the Salvadoran government during the Salvadoran Civil War (1979-1992), though the radio station would continue to run some time after the peace agreement in 1992. <i>Radio Venceremos</i>, or ‘We Will Win’ in English, served as a tool for the Farabundo Martí National Liberation Front (FMLN) to coordinate and communicate with ordinary Salvadorans in encouraging their role in the revolutionary effort, but also served as way to spread news and keep people up to date on the government’s atrocities and recent attacks.
+  <br>
+  <br>
 <hr>
 <h2>Project in <a href="https://lgsump.github.io/radio-venceremos-espanol/">Spanish</a></h2>
 <hr>
-</left>

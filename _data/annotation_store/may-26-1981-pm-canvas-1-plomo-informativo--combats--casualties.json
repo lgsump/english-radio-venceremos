@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo--combats--casualties.json",
+  "type": "AnnotationPage",
+  "label": "Plomo Informativo/ Combats/ Casualties",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-plomo-informativo--combats--casualties-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The exploitation and death of workers from the San Sebastián Central Minery. A report has reached the official voice of the Farabundo Martí National Liberation Front, the radio of Salvadoran people, and the news comes from the city of Santa Rosa de Lima, in the department of La Unión. The report expresses that two mine workers were captured because they were reported to the National Guard by the sycophantic administrative manager Cristobal Bonilla, Francisco Torres Menjibar, mine superintendent, along with Manuel Reyes and Rolando Saravia all of the San Sebastián Central Minery.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "La Unión",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "77.0,121.0"
+        }
+      }
+    }
+  ]
+}

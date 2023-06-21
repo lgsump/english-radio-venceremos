@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-music.json",
+  "type": "AnnotationPage",
+  "label": "Music",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-music-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>…will never be defeated!<br> The people united, will never be defeated!<br> The people united…",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Song",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "62.0,69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-music-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>We will give our lives for the fatherland,<br> We will fight to see her liberated.<br> Peace in this land we will sow,<br> Working day by day, we will live.<br> Tyrants and assassins wil be no more.<br> Children will play in the streets.<br> The winds of justice will return,<br> And they will blow on our people.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Song",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "361.0,398.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-music-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>Socialism will be our future.<br> All together, we will be history's completion.<br> To fulfill, to fulfill, to fulfill<br> <br>  We will prevail, we will prevail<br> A thousand chains we'll have to break,<br> We will prevail, we will prevail<br> We will know how to overcome misery!<br> <br> We will prevail, We will prevail…",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Song",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "938.0,972.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-music-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>Peasants, soldiers, miners,<br> And the women of our country, as well,<br> Students, workers, white-collar and blue,<br> We will fulfill our duty.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Song",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1012.0,1017.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-music-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>All together, we will be history's completion.<br> To fulfill, to fulfill, to fulfill<br> <br> We will prevail, we will prevail!<br> A thousand chains we'll have to break,<br> We will prevail, we will prevail!<br> We will know how to overcome misery!<br> We will prevail, we will prevail!<br> A thousand chains we'll have to break…<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Song",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1027.0,1059.0"
+        }
+      }
+    }
+  ]
+}

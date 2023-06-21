@@ -23,6 +23,80 @@
         "id": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2812,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-political-context.json",
+            "label": {
+              "none": ["Political Context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-radio-venceremos-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos/FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-casualties.json",
+            "label": {
+              "none": ["Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-music.json",
+            "label": {
+              "none": ["Music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo--torture--casualties.json",
+            "label": {
+              "none": ["Plomo Informativo/ Torture/ Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-plomo-informativo--combats--casualties.json",
+            "label": {
+              "none": ["Plomo Informativo/ Combats/ Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-combat.json",
+            "label": {
+              "none": ["Combat"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/paintings",

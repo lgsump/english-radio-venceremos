@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-casualties.json",
+  "type": "AnnotationPage",
+  "label": "Casualties",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-casualties-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The evident wear that the people’s forces are producing day to day on the genocidal army’s ranks can no longer be hidden from the genocidal leadership. The government’s Junta has acknowledged to the press, through the official spokesman of the armed forces, that they suffered 20 casualties in the last 24 hours.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,269.0"
+        }
+      }
+    }
+  ]
+}

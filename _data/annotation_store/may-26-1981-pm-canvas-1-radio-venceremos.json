@@ -1,0 +1,104 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-pm-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fellow workers, students, teachers, employees, military, compatriots, women in the marketplaces, residents of boroughs and slums, peasants, and employees. Radio Venceremos opens its microphones to reports of labor problems. Reports of your community, of the repressive actions of the dictatorship, and every type of information that you consider important for our people in this struggle. All information should go to Radio Venceremos through the Commission of the Press of Farabundo Martí National Liberation Front or any other channel of the revolutionary organizations.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "179.0,232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "More information, at the hour of joining our popular heroic militias.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.0,239.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Meanwhile, several hundred residents have been forced to abandon that region and to find refuge in the town of Ilobasco due to threats by the genocidal troop, which stated that they will give death to any that remain in the area. <br> In the next broadcast, Radio Venceremos will give an important report on the victorious advance of our people on the four fronts of the war. Up until this moment, Radio Venceremos presented Plomo Informativo, breaking the information siege of the fascist junta.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chalatenango",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "312.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-pm-canvas-1-radio-venceremos-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "United to fight until final victory! Revolution or death! We will prevail!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "973.0,1011.0"
+        }
+      }
+    }
+  ]
+}

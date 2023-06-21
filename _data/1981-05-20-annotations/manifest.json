@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://lgsump.github.io/radio-venceremos-english/1981-05-20-annotations/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "1981-05-20 Annotations" ] },
+    "label": { "en": [ "May 27, 1981 - PM" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/19810520-b",
         "type": "Text",
-        "label": { "en": [ "1981-05-20 Annotations" ] },
+        "label": { "en": [ "May 27, 1981 - PM" ] },
         "format": "text/html"
       }
     ],

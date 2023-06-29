@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-political-context.json",
+  "type": "AnnotationPage",
+  "label": "Political context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-political-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As I said, we were lied to. They told us that the soldiers brought foreign journalists and that they couldn’t kill defenseless women and children in front of journalists. I speak of Capitan Medina Garay, yes, him. He made them get close when he came here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "El_Junquillo",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1986.0,2010.0"
+        }
+      }
+    }
+  ]
+}

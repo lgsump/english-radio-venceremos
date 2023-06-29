@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-casualties.json",
+  "type": "AnnotationPage",
+  "label": "Casualties",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-casualties-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "More information. Thugs from the dictatorship assassinate two union leaders in San Salvador. <br> The workers Carlos Ibrian Resinos and Jose Alirio Martinez were assassinated this past Tuesday, May 26th, by police officers dressed as civil society, according to reports by factory workers from the candy factory Delicia. The police officers were controlling the workers' entrance, inconspicuously posted in front of the factory when the unionists arrived. They shot them at point-blank range.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unions",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2621.0,2662.0"
+        }
+      }
+    }
+  ]
+}

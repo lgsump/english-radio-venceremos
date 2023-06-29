@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-internacional.json",
+  "type": "AnnotationPage",
+  "label": "Internacional",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-internacional-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here is our first information. The university counsels of the United States consider the necessity of not inviting government official to the graduation ceremonies or any other activities to prevent them from having bad experiences. <br> On Saturday, May 23rd, in several universities of the country, the advisor to the president, Secretary of State Alexander Hair and a US ambassador to the United Nations, were targets of student protests for their Yankee foreign policy, particularly the policy pertaining to El Salvador. President Advisor Erwin Leub, was invited to speak at the Law School at the University of San Ysidro, California. He was interrupted when a hundred students from outside the auditorium shouted, “No to the draft! No to the War! Get out of El Salvador!”<br> More information when we reunite without militias on the ground.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "USA",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2382.0,2460.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-interviewee.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Next we present an interesting interview between journalist Gregory Seltzer and Pierre Schori, International Secretary of Sweden’s Socialdemocratic Party.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "534.0,550.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In Central America, I held conversations with President Jose Lopez Portillo, President Luis Herrera Campins, Napoleon Duarte, General Omar Torrijos, Commander Fidel Castro, and Guillermo Ungo of the Revolutionary Democratic Front.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "569.0,592.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Of course, the result of a concrete and detailed proposal from the Revolutionary Democratic Front and the Farabundo Marti for the National Liberation Front to the regime of Duarte--I cannot go into details for obvious reasons. It is something that needs to be managed by those directly involved.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "593.0,617.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As of now, there is no positive response. The reality is that a viable solution was rejected by the United States and the Salvadoran administration. The conclusion I deduce from that is that only is there a clear desire to reach a political solution from the opposition, but there has been a method to reach this process. This method, this proposal continues to be valid and supported by the opposition, but of course, that cannot be the only thing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "621.0,663.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "On the other hand, another conclusion is that the only obstacle to ending this Salvadoran terror is the negative attitude towards the negotiating process on behalf of the United States and the military, the latter whose opinions differ from Washington’s.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "664.0,687.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You can only guess in these types of situations. It would seem that they are trying to weaken as soon as possible the democratic opposition. That’s why they’re sending in weapons in innumerable quantities, weapons that are really not needed in El Salvador. At the same time, they’re trying to deceive world public opinion with the promise of the next elections.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "722.0,754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is absurd, to talk about elections when there’s a civil war and a war of liberation going on, elections in this country where the list of death row inmates includes the most important leaders of the opposition. Negotiations need to begin before the celebration of elections because otherwise the votes will be cast in the cemeteries.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "755.0,791.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There is and that’s very important. They say there are 54, which is a great number when compared to the number of officers in the Salvadoran Army, which is 500. That’s more than 10%, but it can also be noted that the North American military presence has a brutalizing effect. I noticed that. According to Honduras, for example, the attitude of the Honduran army on the border with El Salvador has hardened with the arrival of those consultants, according to Honduras.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "814.0,859.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That’s why Mr. Wischnewski should have made more trips and established more contacts to qualify that situation and the conclusion he reached. In Amsterdam he met with the European socialdemocratic parties and discussed what is an honest, very clear, and valid proposal. This document, according to what they say, is an option among many in a different time, but the proposal Mr. Ungo presents is the one that counts, and it’s the one we recognize as authentically from the Revolutionary Democratic Front y from the Farabundo Marti National Liberation Front.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "907.0,959.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The Revolutionary Democratic Front and the Farabundon Marti National Liberation Front are committed to a clear and well-defined project.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "966.0,979.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No, on the contrary. There is unanimity inside the International Socialists in their solidarity and fraternal support towards the National Revolutionary Movement (MNR) as a member of the International Socialists and the Revolutionary Democratic Front, and we were completely unanimous in the condemnation of the United States’s militaristic policy, and in condemning the military aid and the obstruction to the negotiating process. We continue to propose a political solution, a negotiated solution.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1009.0,1054.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes, it’s true that we are criticized for dedicating so much of our time to Central America. We are asked why we don’t worry as much about Afghanistan. Our response is that we want to avoid another Afghanistan in El Salvador, another Vietnam. There is a possibility of accomplishing that by mobilizing public international opinion and that of the United States.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1077.0,1112.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-interviewee-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I also want to comment that the election of François Mitterrand has reinforced even further the position of the International Socialists because the French Socialist Party has a very clear political project in regard to Latin America. The very President François Mitterrand has personal ties with many democratic Latin American leaders. Likewise, he was with Salvador Allende and he knows Guillermo Ungo very well. I think that Mitterrand’s election is very important for any weight that France might exercise on Latin American issues.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Schori",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1113.0,1162.0"
+        }
+      }
+    }
+  ]
+}

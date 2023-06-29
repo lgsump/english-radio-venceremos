@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-radio-venceremos-fmln.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos/FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-radio-venceremos-fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is Radio Venceremos, the official voice of the Farabundo Marti for National Liberation Front, transmitting its signal of liberty from El Salvador, Central America, a territory in combat against oppression and imperialism.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "232.0,251.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-massacre--br-survivor.json",
+  "type": "AnnotationPage",
+  "label": "Massacre <br>Survivor",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-massacre--br-survivor-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In these moments, the microphones of Radio Venceremos are in the first house that we found in El Junquillo, where the Butcher of El Junquillo, Capitan Napoleon Medina Garay, carried out one of the most horrific massacres in the history of the department of Morazán. In this moments, we are entering a house that has been totally destroyed, it has not roof, all the roof tiles are on the floor, broken. Everything is burnt. There’s traces of children’s clothing. There’s a comrade that is going to explain to us, he’s going to describe what we’re seeing here. This really is one of the most macabre scenes that we’ve seen in our lives. There are human remains in the form of skeletons. Comrade, tell us, whose house was this?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1280.0,1335.0"
+        }
+      }
+    }
+  ]
+}

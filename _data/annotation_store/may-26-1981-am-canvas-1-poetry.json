@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-poetry.json",
+  "type": "AnnotationPage",
+  "label": "Poetry",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-poetry-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>Aída, we are the same.<br> The days pass,<br> We continue to be at war, <br> De same as Aquino,<br> De same as Modesto Ramírez,<br> My war, your war.<br> The bullets pass,<br> De ones of death and pain are the same.<br> We continue to be at war,<br> That of Ama, of Sanchez,<br> The war that brought Oscar Arnulfo and Chacón,<br> And Córdoba, of Agustín, Farabundo,<br> Comrade, it’s the same one.<br> De one of protests and of funerals,<br> They’re the same ones. <br> Arms and legs and shoulders and feet, <br> They’re the same ones.<br> At a gallop, they’re the same ones.<br> The faces with eyes that throw lances at a gallop,<br> Over the historic güiscoyol of the same souls,<br> They’re the same ones.<br> Except for today there aren’t enough streets,<br> Or parks,<br> Or mountains,<br> For us,<br> The same ones,<br> Loud Pipiles in protest and at a gallop.<br> Working men,<br> Laboring fists,<br> Women who smell of vegetables in the marketplaces.<br> There isn’t any space in this small country for the peasant,<br> Heart of golden grain,<br> We continue at war,<br> Our same unique song is heard everywhere.<br> Peace, peace, and we are the same.<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Poem",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2254.0,2351.0"
+        }
+      }
+    }
+  ]
+}

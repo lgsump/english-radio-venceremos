@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-survivor--br-rape.json",
+  "type": "AnnotationPage",
+  "label": "Survivor <br>Rape",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-26-1981-am-canvas-1-survivor--br-rape-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "All those people were first raped and then killed with knives, they slit all those people’s throats, they say, All those North Americans that were with Napoleon Medina Garay. Yes, and that’s how they kill all those young babies, and also a two-day old baby girl. Her name was Dominga Diaz.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "El_Junquillo",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1644.0,1668.0"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,184 @@
         "id": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2781,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-journalist.json",
+            "label": {
+              "none": ["Journalist"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-radio-venceremos-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos/FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-survivor.json",
+            "label": {
+              "none": ["Survivor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-poetry.json",
+            "label": {
+              "none": ["Poetry"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-poderes-creadores-del-pueblo.json",
+            "label": {
+              "none": ["Poderes Creadores del Pueblo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-efectos-de-sonido.json",
+            "label": {
+              "none": ["Efectos de sonido"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-sound-effects.json",
+            "label": {
+              "none": ["Sound Effects"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-music.json",
+            "label": {
+              "none": ["Music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-international.json",
+            "label": {
+              "none": ["International"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-internacional.json",
+            "label": {
+              "none": ["Internacional"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-interviewee.json",
+            "label": {
+              "none": ["Interviewee"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-reporter.json",
+            "label": {
+              "none": ["Reporter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-political-context.json",
+            "label": {
+              "none": ["Political context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-fmln.json",
+            "label": {
+              "none": ["FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-casualties.json",
+            "label": {
+              "none": ["Casualties"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-radio-venceremos--br-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos \u003cbr\u003eFMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-rape.json",
+            "label": {
+              "none": ["Rape"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-survivor--br-rape.json",
+            "label": {
+              "none": ["Survivor \u003cbr\u003eRape"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-massacre.json",
+            "label": {
+              "none": ["Massacre"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-massacre--br-survivor.json",
+            "label": {
+              "none": ["Massacre \u003cbr\u003eSurvivor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/paintings",

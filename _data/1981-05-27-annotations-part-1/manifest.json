@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/manifest.json",
+    "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "May 27, 1981 - AM" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2712,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-combat.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-combat.json",
             "label": {
               "none": ["Combat"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-report.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-report.json",
             "label": {
               "none": ["Report"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-political-context.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-political-context.json",
             "label": {
               "none": ["Political context"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-music.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-music.json",
             "label": {
               "none": ["Music"]
             }
@@ -59,7 +59,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos-.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos-.json",
             "label": {
               "none": ["Radio Venceremos "]
             }
@@ -67,7 +67,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-interviewer.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-interviewer.json",
             "label": {
               "none": ["Interviewer"]
             }
@@ -75,7 +75,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-invited-speaker.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-invited-speaker.json",
             "label": {
               "none": ["Invited Speaker"]
             }
@@ -83,7 +83,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-report-.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-report-.json",
             "label": {
               "none": ["Report "]
             }
@@ -91,7 +91,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-interview.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-interview.json",
             "label": {
               "none": ["Interview"]
             }
@@ -99,7 +99,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-sound-effects.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-sound-effects.json",
             "label": {
               "none": ["Sound effects"]
             }
@@ -107,7 +107,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-casualties.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-casualties.json",
             "label": {
               "none": ["Casualties"]
             }
@@ -115,7 +115,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-world-report.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-world-report.json",
             "label": {
               "none": ["World Report"]
             }
@@ -123,7 +123,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
             }
@@ -131,7 +131,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos-fmln.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-radio-venceremos-fmln.json",
             "label": {
               "none": ["Radio Venceremos/FMLN"]
             }
@@ -139,7 +139,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-poetry.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-poetry.json",
             "label": {
               "none": ["Poetry"]
             }
@@ -147,7 +147,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-casualties-violence-against-children.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-casualties-violence-against-children.json",
             "label": {
               "none": ["Casualties/Violence against children"]
             }
@@ -155,7 +155,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-27-annotations-part-1-canvas-1-sabotage.json",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-sabotage.json",
             "label": {
               "none": ["Sabotage"]
             }
@@ -163,11 +163,11 @@
         ],
         "items": [
           {
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/paintings",
+            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/painting",
+                "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -176,7 +176,7 @@
                   "format": "audio/mp3",
                     "duration": 2712
                 },
-                "target": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-27-annotations-part-1/canvas-1/canvas"
+                "target": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas"
               }
             ]
           }

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/may-26-1981-am-canvas-1-rape.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-am-canvas-1-rape.json",
   "type": "AnnotationPage",
   "label": "Rape",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english/may-26-1981-am/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1434.0,1445.0"

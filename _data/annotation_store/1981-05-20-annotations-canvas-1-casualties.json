@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english/annotations/1981-05-20-annotations-canvas-1-casualties.json",
+  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-20-annotations-canvas-1-casualties.json",
   "type": "AnnotationPage",
   "label": "Casualties",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english/1981-05-20-annotations/canvas-1/canvas",
+        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-20-annotations/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "137.389295,160.896175"

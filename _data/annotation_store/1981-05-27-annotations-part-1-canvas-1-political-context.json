@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-political-context.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/1981-05-27-annotations-part-1-canvas-1-political-context.json",
   "type": "AnnotationPage",
   "label": "Political context",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1560.0,1598.0"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1762.0,1772.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2043.0,2060.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2061.0,2111.0"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2111.0,2158.0"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2159.0,2182.0"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2184.0,2224.0"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2225.0,2258.0"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2259.0,2284.0"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2285.0,2324.0"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2325.0,2353.0"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2354.0,2391.0"

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-sound-effects.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/1981-05-27-annotations-part-1-canvas-1-sound-effects.json",
   "type": "AnnotationPage",
   "label": "Sound effects",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2459.0,2472.0"

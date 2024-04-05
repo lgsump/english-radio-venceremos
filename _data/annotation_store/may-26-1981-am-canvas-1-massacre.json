@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-am-canvas-1-massacre.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-am-canvas-1-massacre.json",
   "type": "AnnotationPage",
   "label": "Massacre",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-am/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-am/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "1238.0,1262.0"

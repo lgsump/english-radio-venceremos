@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-plomo-informativo--torture--casualties.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-plomo-informativo--torture--casualties.json",
   "type": "AnnotationPage",
   "label": "Plomo Informativo/ Torture/ Casualties",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "122.0,146.0"

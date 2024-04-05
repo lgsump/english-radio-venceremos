@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-20-annotations-canvas-1-music.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/1981-05-20-annotations-canvas-1-music.json",
   "type": "AnnotationPage",
   "label": "Music",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-20-annotations/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-20-annotations/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "292.785827,326.872469"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-20-annotations/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-20-annotations/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "352.195859,394.535332"

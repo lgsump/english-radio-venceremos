@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/1981-05-27-annotations-part-1-canvas-1-world-report.json",
+  "id": "https://lgsump.github.io/english-radio-venceremos/annotations/1981-05-27-annotations-part-1-canvas-1-world-report.json",
   "type": "AnnotationPage",
   "label": "World Report",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2457.0,2459.0"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2472.0,2509.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2510.0,2531.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2532.0,2557.0"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2558.0,2565.0"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2566.0,2599.0"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2600.0,2633.0"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2633.0,2644.0"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://radiovenceremos.github.io/radio-venceremos-english-1/1981-05-27-annotations-part-1/canvas-1/canvas",
+        "source": "https://lgsump.github.io/english-radio-venceremos/1981-05-27-annotations-part-1/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "2645.0,2668.0"

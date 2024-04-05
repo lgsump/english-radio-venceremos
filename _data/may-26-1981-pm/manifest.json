@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/manifest.json",
+    "id": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "May 26, 1981 - PM" ] },
     "homepage": [
@@ -20,14 +20,14 @@
     ],
     "items": [
       {
-        "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/canvas-1/canvas",
+        "id": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2812,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-plomo-informativo.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-plomo-informativo.json",
             "label": {
               "none": ["Plomo Informativo"]
             }
@@ -35,7 +35,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-political-context.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-political-context.json",
             "label": {
               "none": ["Political Context"]
             }
@@ -43,7 +43,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-radio-venceremos-fmln.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-radio-venceremos-fmln.json",
             "label": {
               "none": ["Radio Venceremos/FMLN"]
             }
@@ -51,7 +51,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-casualties.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-casualties.json",
             "label": {
               "none": ["Casualties"]
             }
@@ -59,7 +59,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-music.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-music.json",
             "label": {
               "none": ["Music"]
             }
@@ -67,7 +67,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-plomo-informativo--torture--casualties.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-plomo-informativo--torture--casualties.json",
             "label": {
               "none": ["Plomo Informativo/ Torture/ Casualties"]
             }
@@ -75,7 +75,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-plomo-informativo--combats--casualties.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-plomo-informativo--combats--casualties.json",
             "label": {
               "none": ["Plomo Informativo/ Combats/ Casualties"]
             }
@@ -83,7 +83,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-combat.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-combat.json",
             "label": {
               "none": ["Combat"]
             }
@@ -91,7 +91,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/annotations/may-26-1981-pm-canvas-1-radio-venceremos.json",
+            "id": "https://lgsump.github.io/english-radio-venceremos/annotations/may-26-1981-pm-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
             }
@@ -99,11 +99,11 @@
         ],
         "items": [
           {
-            "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/canvas-1/paintings",
+            "id": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/canvas-1/painting",
+                "id": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -112,7 +112,7 @@
                   "format": "audio/mp3",
                     "duration": 2812
                 },
-                "target": "https://radiovenceremos.github.io/radio-venceremos-english-1/may-26-1981-pm/canvas-1/canvas"
+                "target": "https://lgsump.github.io/english-radio-venceremos/may-26-1981-pm/canvas-1/canvas"
               }
             ]
           }

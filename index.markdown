@@ -14,6 +14,6 @@ El Salvador, 1981-1990
   <br>
   <br>
 <br>
-<h2>Project in <a href="https://lgsump.github.io/espanol-radio-venceremos/">Spanish</a></h2>
+<h2>Project in <a href="https://lgsump.github.io/radio-venceremos-en-espanol/">Spanish</a></h2>
 <br>
 
